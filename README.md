@@ -9,4 +9,4 @@ tiếp theo giải nén : tar -xvf imodule.tar.xz
 
 tiếp theo copy thư mục vào labs: cp -r /home/student/labtainer/labtainer-student/video-stego-lsb-1 /home/student/labtainer/trunk/labs
 
-chạy lab : labtainer video-stego-lsb-2
+chạy lab : labtainer video-stego-lsb-1
